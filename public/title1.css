@@ -1,0 +1,28 @@
+@font-face
+{
+    font-family:"coolvetica";
+    src: url("coolvetica rg.ttf")format("truetype");
+}
+
+.id1
+{
+    color:white;
+    font-family:"coolvetica";
+    font-size: 5rem;
+    text-align:center;
+    align-content: center;
+    
+}
+.id2{
+    color:rgb(44, 248, 105);
+    font-size: 5rem;
+    text-align:left;
+    font-family:"coolvetica";    
+}
+body{
+    background-color: black;
+}
+
+
+
+
